@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.novypro.com/profile_projects/priyagupta](https://www.novypro.com/profile_projects/priyagupta)
 
-- 📝 I regularly write articles on [@itspriyasometimes](@itspriyasometimes)
+- 📝 I regularly write articles on [@itspriyasometimes](https://medium.com/@itspriyasometimes)
 
 - 💬 Ask me about **Data Analysis**
 
