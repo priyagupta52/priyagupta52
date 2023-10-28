@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Priya+Gupta)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Priya Gupta</h1>
 <h3 align="center">A Passionate Data Analyst|Powerbi developer from India</h3>
 
